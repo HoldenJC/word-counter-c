@@ -11,9 +11,11 @@ An application made to check how frequently a given word appears in a given sent
 ### Specs
 | Spec | Input | Output |
 | :-------------     | :------------- | :------------- |
-| **User entered word appears in user entered sentence 1 time** | word: dog sentence: I walked the dog. | dog appears 1 time |
-| **User entered word appears in user entered sentence multiple times** | word: dog sentence: I walked the dog to the dog park. | dog appears 2 times |
-| **User entered word is part of a word within user entered sentence and is not counted** | word: dog sentence: I walked the doggo. | dog appears 0 times |
+| **User entered word appears in user entered sentence 1 time** | word: dog sentence: I walked the dog | dog appears 1 time |
+| **User entered word appears in user entered sentence multiple times** | word: dog sentence: I walked the dog to the dog park | dog appears 2 times |
+| **User entered word is part of a word within user entered sentence and is not counted** | word: dog sentence: I walked the doggo | dog appears 0 times |
+| **Program ignores periods at end of sentence and general punctuation** | word: dog sentence: I walked the dog. | dog appears 1 time |
+| **Program ignores capitalization when searching for word in sentence** | word: dog sentence: Dog, I walked. | dog appears 1 time |
 
 ## Setup/Installation Requirements
 
