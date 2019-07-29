@@ -34,7 +34,8 @@ namespace Wordcounter.Models
 
       for(int i = 0; i < sentenceWords.Length; i++)
       {
-        if(Word == sentenceWords[i])
+        string currentWord = sentenceWords[i].ToLower();
+        if(Word == currentWord)
         {
           wordCount++;
         }
