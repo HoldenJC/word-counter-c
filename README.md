@@ -6,7 +6,7 @@
 
 ## Description
 
-An application made to check how frequently a given word appears in a given sentence.
+An application made to check how frequently a user provided word appears in a user provided sentence.
 
 ### Specs
 | Spec | Input | Output |
