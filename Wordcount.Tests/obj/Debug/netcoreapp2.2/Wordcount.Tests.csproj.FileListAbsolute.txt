@@ -1,0 +1,17 @@
+C:\Users\Holde\desktop\coding\Wordcount.Solution\Wordcount.Tests\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Holde\desktop\coding\Wordcount.Solution\Wordcount.Tests\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Holde\desktop\coding\Wordcount.Solution\Wordcount.Tests\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Holde\desktop\coding\Wordcount.Solution\Wordcount.Tests\bin\Debug\netcoreapp2.2\Wordcount.Tests.deps.json
+C:\Users\Holde\desktop\coding\Wordcount.Solution\Wordcount.Tests\bin\Debug\netcoreapp2.2\Wordcount.Tests.runtimeconfig.json
+C:\Users\Holde\desktop\coding\Wordcount.Solution\Wordcount.Tests\bin\Debug\netcoreapp2.2\Wordcount.Tests.runtimeconfig.dev.json
+C:\Users\Holde\desktop\coding\Wordcount.Solution\Wordcount.Tests\bin\Debug\netcoreapp2.2\Wordcount.Tests.dll
+C:\Users\Holde\desktop\coding\Wordcount.Solution\Wordcount.Tests\bin\Debug\netcoreapp2.2\Wordcount.Tests.pdb
+C:\Users\Holde\desktop\coding\Wordcount.Solution\Wordcount.Tests\bin\Debug\netcoreapp2.2\Wordcount.dll
+C:\Users\Holde\desktop\coding\Wordcount.Solution\Wordcount.Tests\bin\Debug\netcoreapp2.2\Wordcount.pdb
+C:\Users\Holde\desktop\coding\Wordcount.Solution\Wordcount.Tests\obj\Debug\netcoreapp2.2\Wordcount.Tests.csprojAssemblyReference.cache
+C:\Users\Holde\desktop\coding\Wordcount.Solution\Wordcount.Tests\obj\Debug\netcoreapp2.2\Wordcount.Tests.csproj.CoreCompileInputs.cache
+C:\Users\Holde\desktop\coding\Wordcount.Solution\Wordcount.Tests\obj\Debug\netcoreapp2.2\Wordcount.Tests.AssemblyInfoInputs.cache
+C:\Users\Holde\desktop\coding\Wordcount.Solution\Wordcount.Tests\obj\Debug\netcoreapp2.2\Wordcount.Tests.AssemblyInfo.cs
+C:\Users\Holde\desktop\coding\Wordcount.Solution\Wordcount.Tests\obj\Debug\netcoreapp2.2\Wordcount.Tests.csproj.CopyComplete
+C:\Users\Holde\desktop\coding\Wordcount.Solution\Wordcount.Tests\obj\Debug\netcoreapp2.2\Wordcount.Tests.dll
+C:\Users\Holde\desktop\coding\Wordcount.Solution\Wordcount.Tests\obj\Debug\netcoreapp2.2\Wordcount.Tests.pdb

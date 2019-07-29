@@ -1,0 +1,11 @@
+C:\Users\Holde\desktop\coding\Wordcount.Solution\Wordcount\obj\Debug\netcoreapp2.2\Wordcount.csprojAssemblyReference.cache
+C:\Users\Holde\desktop\coding\Wordcount.Solution\Wordcount\obj\Debug\netcoreapp2.2\Wordcount.csproj.CoreCompileInputs.cache
+C:\Users\Holde\desktop\coding\Wordcount.Solution\Wordcount\obj\Debug\netcoreapp2.2\Wordcount.AssemblyInfoInputs.cache
+C:\Users\Holde\desktop\coding\Wordcount.Solution\Wordcount\obj\Debug\netcoreapp2.2\Wordcount.AssemblyInfo.cs
+C:\Users\Holde\desktop\coding\Wordcount.Solution\Wordcount\bin\Debug\netcoreapp2.2\Wordcount.deps.json
+C:\Users\Holde\desktop\coding\Wordcount.Solution\Wordcount\bin\Debug\netcoreapp2.2\Wordcount.runtimeconfig.json
+C:\Users\Holde\desktop\coding\Wordcount.Solution\Wordcount\bin\Debug\netcoreapp2.2\Wordcount.runtimeconfig.dev.json
+C:\Users\Holde\desktop\coding\Wordcount.Solution\Wordcount\bin\Debug\netcoreapp2.2\Wordcount.dll
+C:\Users\Holde\desktop\coding\Wordcount.Solution\Wordcount\bin\Debug\netcoreapp2.2\Wordcount.pdb
+C:\Users\Holde\desktop\coding\Wordcount.Solution\Wordcount\obj\Debug\netcoreapp2.2\Wordcount.dll
+C:\Users\Holde\desktop\coding\Wordcount.Solution\Wordcount\obj\Debug\netcoreapp2.2\Wordcount.pdb
