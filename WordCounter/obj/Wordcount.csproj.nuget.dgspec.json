@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Holde\\desktop\\coding\\Wordcount.Solution\\Wordcount\\Wordcount.csproj": {}
+    "C:\\Users\\Holde\\desktop\\coding\\Wordcount.Solution\\wordcount\\Wordcount.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Holde\\desktop\\coding\\Wordcount.Solution\\Wordcount\\Wordcount.csproj": {
+    "C:\\Users\\Holde\\desktop\\coding\\Wordcount.Solution\\wordcount\\Wordcount.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Holde\\desktop\\coding\\Wordcount.Solution\\Wordcount\\Wordcount.csproj",
+        "projectUniqueName": "C:\\Users\\Holde\\desktop\\coding\\Wordcount.Solution\\wordcount\\Wordcount.csproj",
         "projectName": "Wordcount",
-        "projectPath": "C:\\Users\\Holde\\desktop\\coding\\Wordcount.Solution\\Wordcount\\Wordcount.csproj",
+        "projectPath": "C:\\Users\\Holde\\desktop\\coding\\Wordcount.Solution\\wordcount\\Wordcount.csproj",
         "packagesPath": "C:\\Users\\Holde\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Holde\\desktop\\coding\\Wordcount.Solution\\Wordcount\\obj\\",
+        "outputPath": "C:\\Users\\Holde\\desktop\\coding\\Wordcount.Solution\\wordcount\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
